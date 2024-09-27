@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM debian:bookworm-slim
 
 ARG WARP_VERSION
 ARG GOST_VERSION
